@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot-sales-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "smolpuddle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbipunks-community/discord-bot-sales-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arbipunks-community/discord-bot-sales-tracker/issues"
+  },
+  "homepage": "https://github.com/arbipunks-community/discord-bot-sales-tracker#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "ethers": "^5.4.7"
+  }
+}

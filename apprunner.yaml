@@ -1,0 +1,7 @@
+version: 1.0
+runtime: nodejs16
+run:
+ runtime-version: 16.6.2
+ command: node smollpuddle.js
+ network:
+ port: 8000
